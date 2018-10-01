@@ -1,0 +1,11 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/FormSubmit/bin/Debug/netcoreapp2.0/FormSubmit.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/FormSubmit/bin/Debug/netcoreapp2.0/FormSubmit.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/FormSubmit/bin/Debug/netcoreapp2.0/FormSubmit.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/FormSubmit/bin/Debug/netcoreapp2.0/FormSubmit.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/FormSubmit/bin/Debug/netcoreapp2.0/FormSubmit.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/FormSubmit/obj/Debug/netcoreapp2.0/FormSubmit.csprojResolveAssemblyReference.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/FormSubmit/obj/Debug/netcoreapp2.0/FormSubmit.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/FormSubmit/obj/Debug/netcoreapp2.0/FormSubmit.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/FormSubmit/obj/Debug/netcoreapp2.0/FormSubmit.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/FormSubmit/obj/Debug/netcoreapp2.0/FormSubmit.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/FormSubmit/obj/Debug/netcoreapp2.0/FormSubmit.pdb
